@@ -1,0 +1,10 @@
+﻿/* PLUGNIN ADMIN MENU ICON */ 
+#adminmenu #menu-posts-bba_book_annotation .wp-menu-image:before {
+	content: "\f097";
+	font-family: 'FontAwesome' !important;
+	font-size: 18px !important;
+}
+
+.pure-form select{
+	height: auto;
+}
